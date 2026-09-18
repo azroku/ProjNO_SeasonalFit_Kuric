@@ -1,9 +1,0 @@
-<?xml version='1.0'?>
-<DevRes>
-    <Translations>
-        <Res id="appTitle" tr="Seasonal Model Fitting"/>
-        <Res id="play" tr="Play"/>
-        <Res id="pause" tr="Pause"/>
-        <Res id="reset" tr="Reset"/>
-    </Translations>
-</DevRes>
